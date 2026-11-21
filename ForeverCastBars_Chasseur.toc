@@ -1,0 +1,16 @@
+## Interface: 16001
+## Title: Forever Cast Bars - Hunter
+## Title-frFR: Forever Cast Bars - Chasseur
+## Title-esES: Forever Cast Bars - Cazador
+## Title-esMX: Forever Cast Bars - Cazador
+## Notes: Hunter pack for Forever Cast Bars: one illustrated, animated bar per hunter spell. Optional.
+## Notes-frFR: Pack Chasseur pour Forever Cast Bars : une barre illustrée et animée par sort de chasseur. Optionnel.
+## Notes-esES: Paquete de cazador para Forever Cast Bars: una barra ilustrada y animada por hechizo de cazador. Opcional.
+## Notes-esMX: Paquete de cazador para Forever Cast Bars: una barra ilustrada y animada por hechizo de cazador. Opcional.
+## Author: Ghosti
+## Version: 0.0.39
+## X-License: All Rights Reserved
+## Dependencies: ForeverCastBars
+## IconTexture: Interface\Icons\Ability_Hunter_AimedShot
+
+Chasseur.lua
